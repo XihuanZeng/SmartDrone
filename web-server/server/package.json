@@ -1,0 +1,22 @@
+{
+  "name": "smartdrone",
+  "version": "1.0.0",
+  "description": "Programming Parrot AR Drone to have face and voice recognition",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XihuanZeng/SmartDrone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XihuanZeng/SmartDrone/issues"
+  },
+  "homepage": "https://github.com/XihuanZeng/SmartDrone#readme",
+  "dependencies": {
+    "ar-drone": "^0.3.3"
+  }
+}
